@@ -12,7 +12,7 @@ AminoVoiceFxck/Voice Chat Viewers for Amino/Боты для голосового
 - pkg install python
 - pip install rainbowtext
 - pip install pyfiglet
-- pip install amino.py==1.2.17
+- pip install amino.py
 - git clone https://github.com/LilZevi/AminoVoiceFxck
 - !Для запуска/For starting!
 - cd AminoVoiceFxck
