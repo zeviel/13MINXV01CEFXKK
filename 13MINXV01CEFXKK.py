@@ -4,7 +4,7 @@ from pyfiglet import figlet_format
 from websocket import WebSocketConnectionClosedException
 print(text("""Script by deluvsushi
 Github : https://github.com/deluvsushi"""))
-print(text(figlet_format("aminovoicefxck", font="small")))
+print(text(figlet_format("13MINXV01CEFXKK", font="small")))
 
 def main():
 	client = samino.Client()
