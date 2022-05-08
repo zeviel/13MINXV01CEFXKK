@@ -1,10 +1,12 @@
-# AminoVoiceFxck
-AminoVoiceFxck|Voice Chat Viewers for Amino
+# 13MINXV01CEFXKK
+Voice chat viewers script for amino
 
-## Script instruction eng:
+## Using
+
+### `Eng:`
 - Create text file emails.txt and write emails with one password to the file and start the script!
 
-### Script instruction rus:
+### `Ru:`
 - Создайте текстовый документ emails.txt и добавьте туда почты с одинаковым паролем т.е аккаунты после запускайте скрипт! это обязательно
 
 #### Termux
@@ -15,7 +17,7 @@ AminoVoiceFxck|Voice Chat Viewers for Amino
 - pip install rainbowtext
 - pip install pyfiglet
 - pip install samino
-- git clone https://github.com/deluvsushi/AminoVoiceFxck
-- cd AminoVoiceFxck
-- python AminoVoiceFxck.py
+- git clone https://github.com/deluvsushi/13MINXV01CEFXKK
+- cd 13MINXV01CEFXKK
+- python 13MINXV01CEFXKK.py
 ```
