@@ -16,8 +16,8 @@ Voice chat viewers script for amino
 - pkg install python
 - pip install rainbowtext
 - pip install pyfiglet
-- pip install samino
-- git clone https://github.com/deluvsushi/13MINXV01CEFXKK
+- pip install amino
+- git clone https://github.com/zeviel/13MINXV01CEFXKK
 - cd 13MINXV01CEFXKK
 - python 13MINXV01CEFXKK.py
 ```
